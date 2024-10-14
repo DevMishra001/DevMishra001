@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevMishra001
+- 👋 Hi, I’m Adarsh Mishra
 - 👀 I’m interested in ..Artificial Intelligence and machine learning.
 - 🌱 I’m currently learning ..Python,DSA(c),Java.
 - 💞️ I’m looking to collaborate on .Google developers group..
